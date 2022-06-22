@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/correction/6618762860483170531919348887448022740123_5/205/81062/0x00-shell_basics \n                                                                                
+echo '/tmp/correction/6618762860483170531919348887448022740123_5/205/81062/0x00-shell_basics' \n                                                                                
