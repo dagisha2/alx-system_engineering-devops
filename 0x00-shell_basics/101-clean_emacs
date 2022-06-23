@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'find . -name "*.bak" -type f -delete'
+ find . -name "*.bak" -type f -delete
