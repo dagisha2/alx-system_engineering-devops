@@ -1,1 +1,2 @@
-redirections
+redirection
+my first redirection
